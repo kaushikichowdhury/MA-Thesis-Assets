@@ -21,3 +21,12 @@ If referencing this repository in academic or informal work, please cite appropr
 
 ### Note
 By accessing this repository, you agree to respect the stated usage restrictions.
+
+---
+### Notebook Access
+Due to unresolved widget metadata issues, the notebook in this repository may not render correctly in all environments.
+
+- JSON-validated version (made with JSONLint): available in this repository
+- Working version (Google Colab): https://colab.research.google.com/drive/1L3mcMCQ-bIQq6txSzfbPVgb2EGkZkhWf?usp=sharing
+
+The Colab version reflects the intended structure and execution of the notebook.
