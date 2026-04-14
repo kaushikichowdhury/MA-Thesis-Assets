@@ -1,6 +1,6 @@
 # MA-Thesis-Assets
 An archive of analytical materials for reference and study. It has CSV files from analyses and COLAB files.
-The metadata for the poems collected thus is available [here](https://docs.google.com/spreadsheets/d/1DWnA4dkCvZIqm_AadN5R6yQQLeDrr-ZwVTvt4RakJug/edit?usp=sharing).
+The metadata for the poems collected thus are available [here](https://docs.google.com/spreadsheets/d/1DWnA4dkCvZIqm_AadN5R6yQQLeDrr-ZwVTvt4RakJug/edit?usp=sharing), and the tools and resources used in the analysis are available [here](https://docs.google.com/document/d/1HFSaEkBXAZmaXEfRkkhYHGeQw3U753BxJFtXh2EHm1s/edit?usp=sharing).
 
 ### Usage Policy
 All materials in this repository are shared for **read-only, educational purposes**.
